@@ -1,10 +1,10 @@
 <template>
   <div>
     <Head>
-      <Title>Mesfin Tsegaye - Software Engineering Lead</Title>
+      <Title>Abdela Ahmed </Title>
       <Meta
         name="description"
-        content="Mesfin Tsegaye is passionate full-stack developer with over five years of industry expertise, specializing in remote-based roles across multiple global locations."
+        content="Teacher Development Program Coordinator at Oromia Education Bureau"
       />
     </Head>
     <section class="w-full mx-auto max-w-[90%] h-full py-16">

@@ -1,10 +1,10 @@
 <template>
   <div class="h-full">
     <Head>
-      <Title>Mesfin Tsegaye - Education</Title>
+      <Title>Abdela Ahmed </Title>
       <Meta
         name="description"
-        content="Developed and deployed EtyopAI, an AI system utilizing ChatGPT models, to provide OpenAI Services in Africa"
+        content="Teacher Development Program Coordinator at Oromia Education Bureau"
       />
     </Head>
     <div
