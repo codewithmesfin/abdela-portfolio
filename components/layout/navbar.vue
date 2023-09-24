@@ -12,7 +12,7 @@
               src="~/assets/abdela.png"
               alt="Bordered avatar"
             />
-            <span class="self-center pl-2 whitespace-nowrap">Abdela Ahmed</span>
+            <span class="self-center pl-2 whitespace-nowrap">Abdella Ahmed</span>
           </NuxtLink>
           <button
             @click="toggleSidebar"
@@ -69,7 +69,7 @@
                   >
                     
                     <span class="self-center pl-3 t whitespace-nowrap"
-                      >Abdela Ahmed</span
+                      >Abdella Ahmed</span
                     >
                   </NuxtLink>
                   <button

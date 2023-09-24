@@ -1,7 +1,7 @@
 <template>
   <div class="h-full">
     <Head>
-      <Title>Abdela Ahmed </Title>
+      <Title>Abdella Ahmed </Title>
       <Meta
         name="description"
         content="Teacher Development Program Coordinator at Oromia Education Bureau"

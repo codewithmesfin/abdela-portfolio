@@ -1,7 +1,7 @@
 <template>
   <div>
     <Head>
-      <Title>Abdela Ahmed </Title>
+      <Title>Abdella Ahmed </Title>
       <Meta
         name="description"
         content="Teacher Development Program Coordinator at Oromia Education Bureau"
@@ -19,7 +19,7 @@
         <div class="py-10 w-full md:w-1/2">
           <h1 class="text-4xl md:text-6xl">Greetings, I am</h1>
           <h1 class="text-4xl py-3 brand md:text-6xl font-extrabold">
-            Abdela Ahmed
+            Abdella Ahmed
           </h1>
           <h1 class="text-2xl py-2 md:text-3xl brand">
             Teacher Development Program Coordinator at Oromia Education Bureau
@@ -79,13 +79,13 @@ const items = [
   },
 
   {
-    title: "X (Twitter)",
+    title: "X(Twitter)",
     value: "@abdella47639275",
     href: "https://twitter.com/abdella47639275",
   },
   {
     title: "Facebook",
-    value: "Abdela Ahmed",
+    value: "abdella111@yahoo.com",
     href: "https://www.facebook.com/profile.php?id=100005999175443&mibextid=ZbWKwL",
   },
   
