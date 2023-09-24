@@ -4,7 +4,7 @@
       <div class="flex items-center justify-between">
         <div class="flex items-center justify-between md:justify-start w-full">
           <NuxtLink
-            href=""
+            href="/"
             class="text-xl flex items-center text-white font-bold lg:ml-2.5"
           >
             <img
@@ -64,7 +64,7 @@
               <ul class="space-y-2 pb-2 w-full">
                 <li class="flex justify-between items-center">
                   <NuxtLink
-                    href=""
+                    href="/"
                     class="text-xl brand font-bold lg:ml-2.5"
                   >
                     
