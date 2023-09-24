@@ -45,11 +45,11 @@
               :key="i"
               class="flex md:space-x-3 py-1 border-b border-gray-100"
             >
-              <p class="w-1/4">{{ item.title }}</p>
+              <p class="w-1/4">{{ item.title }}: </p>
               <NuxtLink
                 :href="item.href"
                 target="_blank"
-                class="w-full md:pl-5 text-green-600"
+                class="w-full md:pl-5 text-green-600 pl-3"
                 >{{ item.value }}
               </NuxtLink>
             </div>
