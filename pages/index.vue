@@ -43,7 +43,7 @@
             <div
               v-for="(item, i) in items"
               :key="i"
-              class="flex md:space-x-3 py-1 border-b border-gray-100"
+              class="flex items-center md:space-x-3 py-1 border-b border-gray-100"
             >
               <p class="w-1/4">{{ item.title }}: </p>
               <NuxtLink
