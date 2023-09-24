@@ -85,7 +85,7 @@
                   <nuxt-link
                     :href="item.href"
                     @click="toggleSidebar"
-                    :target="item.name === 'Resume' ? '_blank' : ''"
+                    :target="item.name === 'Curriculum Vitae' ? '_blank' : ''"
                     class="text-base font-normal rounded-lg flex items-center p-2 group"
                   >
                     <span class="ml-3">{{ item.name }} </span>
