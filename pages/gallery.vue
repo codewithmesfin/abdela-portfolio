@@ -45,8 +45,9 @@ import i12 from "~/assets/pics/i12.jpeg";
 
 import i13 from "~/assets/pics/i13.jpeg";
 import i14 from "~/assets/pics/i14.jpeg";
+import i15 from "~/assets/pics/i15.jpeg";
 
-const pictures = [i6,i1, i2,i3,i4,i5,
+const pictures = [i6,i1, i2,i3,i4,i5,i15,
 i7,i8,i9,i10,i11,i12,i13,i14
 ];
 </script>
